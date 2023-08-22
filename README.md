@@ -1,11 +1,4 @@
-<!-- ### Hi there 👋 -->
-
-<!-- **moe-ka/moe-ka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!-- - 🔭 I’m currently working on ... -->
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 🤔 I’m looking for help with ... -->
+### Hi there 👋 
 
 Hello, my friends! In this opportunity, I want to introduce myself. My name is Muhammad Surya Rusfauzi, I come from Karawang - Indonesia. I have a high interest in tech world. I hope I can become a developer and produce extraordinary works. That’s all from me. Thank you for your attention.
 
