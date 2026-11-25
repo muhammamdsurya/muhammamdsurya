@@ -133,9 +133,6 @@ motto:      "Turning raw data into decisions."
 <!-- Ganti GITHUB_USERNAME dengan username GitHub kamu (3 tempat di bawah) -->
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammamdsurya&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammamdsurya&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-
 <img src="https://streak-stats.demolab.com?user=muhammamdsurya&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
